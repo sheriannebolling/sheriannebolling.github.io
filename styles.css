@@ -1,28 +1,32 @@
+
 body {
 	background-color:#B0C4DE;
 	margin: auto;
-	width: 50%;
+	width: 75%;
 }
 
 .heading {
 	color:#696969;
 }
 
-form {
+#form {
 	border: solid 2px #696969;
-	padding: 20px;
-	margin: 10px;
-}
-
-#table {
-	border: solid 2px #696969;
-	margin: 10px;
+	padding: 30px;
+	margin: 30px;
 }
 
 p {
 	font-family: "Book Antiqua", arial;
 }
 
+footer {
+	position:fixed;
+	bottom:0;
+}
+
 a:visited {
     color: #4682B4;
+}
+main {
+	background-image: url("http://www.dream-it-designs.com/Cloud_Background.jpg");
 }
