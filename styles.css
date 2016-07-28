@@ -44,7 +44,12 @@ li {
 	text-align: left;
 }
 
+table, th, td {
+   border: 1px solid black;
+}
+
 @media screen and (max-width: 600px) {
   h1 {
     font-size: 12px;
   }
+}
