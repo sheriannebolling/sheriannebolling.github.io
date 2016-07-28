@@ -3,6 +3,7 @@ body {
 	background-color:#B0C4DE;
 	margin: auto;
 	width: 50%;
+	text-align: center;
 }
 
 .heading {
@@ -24,8 +25,8 @@ footer {
 	bottom:0;
 }
 
-a:visited {
-    color: green;
+a:active {
+    color: #4682B4;
 }
 
 #paragraph {
@@ -33,6 +34,10 @@ a:visited {
 }
 
 img {
-	width: 500px; 
-	height:300px;
+	width: 400px; 
+	height: 300px;
 }
+@media screen and (min-width: 600px) {
+  h1 {
+    font-size: 12px;
+  }
