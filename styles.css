@@ -3,6 +3,9 @@ body {
 	background-color:#B0C4DE;
 	margin: auto;
 	width: 50%;
+}
+
+.body {
 	text-align: center;
 }
 
@@ -26,18 +29,25 @@ footer {
 }
 
 a:active {
-    color: #4682B4;
+    color: red;
 }
 
 #paragraph {
-	background-image: url("http://www.dream-it-designs.com/Cloud_Background.jpg");
+	background-image: url("http://www.zenbedrooms.co.uk/media/catalog/product/cache/62/image/1160x/17f82f742ffe127f42dca9de82fb58b1/w/h/white-goose-down-surround-pillow.jpeg");
+	margin: auto;
+	width: 70%;
 }
 
 img {
 	width: 400px; 
 	height: 300px;
 }
-@media screen and (min-width: 600px) {
+
+li {
+	text-align: left;
+}
+
+@media screen and (max-width: 600px) {
   h1 {
     font-size: 12px;
   }
