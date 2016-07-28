@@ -1,8 +1,7 @@
-
 body {
 	background-color:#B0C4DE;
 	margin: auto;
-	width: 50%;
+	width: 65%;
 }
 
 .body {
@@ -28,19 +27,17 @@ footer {
 	bottom:0;
 }
 
-a:active {
-    color: red;
+a:visited {
+    color: blue;
 }
 
-#paragraph {
-	background-image: url("http://www.zenbedrooms.co.uk/media/catalog/product/cache/62/image/1160x/17f82f742ffe127f42dca9de82fb58b1/w/h/white-goose-down-surround-pillow.jpeg");
-	margin: auto;
-	width: 70%;
+main {
+	background-image: url("http://1-background.com/images/clouds/sea-of-clouds-seamless-repeating-tile.jpg");
 }
 
 img {
-	width: 400px; 
-	height: 300px;
+	width: 600px; 
+	height: 400px;
 }
 
 li {
