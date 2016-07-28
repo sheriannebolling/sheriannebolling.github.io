@@ -24,11 +24,15 @@ footer {
 	bottom:0;
 }
 
-a:active {
-    color: red;
+a:visited {
+    color: green;
 }
+
 #paragraph {
 	background-image: url("http://www.dream-it-designs.com/Cloud_Background.jpg");
-	margin: auto;
-	width: 75%;
+}
+
+img {
+	width: 500px; 
+	height:300px;
 }
