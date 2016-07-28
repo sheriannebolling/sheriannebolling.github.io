@@ -2,7 +2,7 @@
 body {
 	background-color:#B0C4DE;
 	margin: auto;
-	width: 75%;
+	width: 50%;
 }
 
 .heading {
@@ -24,9 +24,11 @@ footer {
 	bottom:0;
 }
 
-a:visited {
-    color: #4682B4;
+a:active {
+    color: red;
 }
 #paragraph {
 	background-image: url("http://www.dream-it-designs.com/Cloud_Background.jpg");
+	margin: auto;
+	width: 75%;
 }
